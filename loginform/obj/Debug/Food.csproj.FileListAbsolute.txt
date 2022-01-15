@@ -1,0 +1,477 @@
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\mongocrypt.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Food.exe.config
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Food.exe
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Food.pdb
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Crc32C.NET.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\DnsClient.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.SqlServer.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ExtentReports.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Bson.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.Core.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Newtonsoft.Json.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\RazorEngine.NetCore.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SharpCompress.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Snappy.NET.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Buffers.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Collections.Immutable.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.ComponentModel.Annotations.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.IO.Pipelines.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Memory.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Numerics.Vectors.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Reflection.Metadata.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.AccessControl.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Permissions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Principal.Windows.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encodings.Web.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EnvDTE.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\stdole.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.MSXML.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Crc32C.NET.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\DnsClient.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.SqlServer.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Bson.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.Core.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Newtonsoft.Json.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Snappy.NET.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Buffers.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Collections.Immutable.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.IO.Pipelines.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Memory.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Numerics.Vectors.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Reflection.Metadata.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encodings.Web.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.AssemblyReference.cache
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.SuggestedBindingRedirects.cache
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Form1.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Frmsettingcs.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Product.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormPayment.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormPro.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormReporting.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormSetting.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Properties.Resources.resources
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.GenerateResource.cache
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.CoreCompileInputs.cache
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.CopyComplete
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.exe
+D:\SQL SEVER\Sr\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.pdb
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\mongocrypt.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Food.exe.config
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Food.exe
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Food.pdb
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Crc32C.NET.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\DnsClient.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ExtentReports.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Bson.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.Core.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Newtonsoft.Json.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\RazorEngine.NetCore.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\SharpCompress.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Snappy.NET.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Buffers.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Collections.Immutable.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.IO.Pipelines.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Memory.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Reflection.Metadata.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.AccessControl.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Permissions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Security.Principal.Windows.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EnvDTE.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\stdole.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.MSXML.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Crc32C.NET.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\DnsClient.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Bson.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\MongoDB.Driver.Core.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Newtonsoft.Json.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\Snappy.NET.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Buffers.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Collections.Immutable.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.IO.Pipelines.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Memory.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Reflection.Metadata.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.AssemblyReference.cache
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Form1.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Frmsettingcs.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Product.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormPayment.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormPro.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormReporting.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.NewFolder1.FormSetting.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.Properties.Resources.resources
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.GenerateResource.cache
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.CoreCompileInputs.cache
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.csproj.CopyComplete
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.exe
+D:\Code\Final_C\C#Laptop\C#Laptop\C#store\loginform\obj\Debug\Food.pdb
